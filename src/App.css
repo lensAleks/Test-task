@@ -1,0 +1,323 @@
+.App {
+  background-color: #ffff;
+  padding-top: 3px;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+}
+
+.w-11 {
+  width: 107px;
+  padding-left: 8px;
+}
+
+.header {
+  width: 100%;
+  height: 25px;
+  display: flex;
+}
+
+input {
+width: 57%;
+height: 22px;
+ border-radius: 5px;
+  padding: 4px;
+  background-color: transparent;
+  border: 1px solid;
+  color: #CCC;
+  margin-right: 2%;
+}
+.w-12 {
+  width: 10%;
+}
+*:focus {
+  outline: none;
+}
+.mr-2{
+  height: 25px;
+  margin-right: 2%;
+}
+.wh {
+  width: 44px;
+  margin-right: 4px;
+}
+.w-54 {
+  width: 54px;
+}
+.w-70 {
+  padding-top: 5px;
+  width: 78px;
+}
+
+.w-15 {
+  width: 16%;
+}
+
+.w-100 {
+  width: 105px;
+  height: 33px;
+}
+.w-6 {
+  width: 6%;
+}
+
+.header {
+  padding: 8px 24px 15px 8px;
+  border-bottom:1px solid #ebe5e5;
+ 
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  padding: 9px 5px 9px 5px;
+  border-bottom:1px solid #ebe5e5
+
+}
+
+.body {
+ width: 100%;
+ height: auto;  
+ padding: 32px 13px 32px 13px;
+ border-bottom:1px solid #ebe5e5
+}
+
+.d-block {
+  display: block;
+}
+.c-heg {
+  color: #293147;
+
+}
+
+.pm-1{
+  border-bottom: 1px solid #ebe5e5;
+  padding-bottom: 20px;
+}
+
+.f-9 {
+  padding-top: 21px;
+  font-size: 11px;
+  color: #0f0d0d;
+  font-weight: 600;
+}
+.sq-1 {
+  line-height: 1.3;
+  color: #a49d9d;
+  text-align: center;
+  border-radius: 4px;
+  width: 69px;
+  height: 17px;
+  background-color: #eff2f6;
+  ;
+}
+.pd-6 {
+ margin: 0px 6%  0px 3%;
+ border-left: 1px solid #ebe5e5;
+ padding-left: 4%;
+}
+.mb-none {
+  margin-left: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.par-2 {
+  padding-left: 9px;
+}
+
+.w-28 {
+  width: 28px;
+}
+
+.par4 {
+  border-right: none;
+}
+
+
+.pic {
+  width: 92%;
+}
+.pic-1 {
+  width: 20%;
+}
+
+.wh-12 {
+  width: auto;
+  padding: 1px;
+  font-size: 13px;
+  color: #cac6c6;
+}
+
+.d-flex {
+  display: flex;
+}
+.title {
+/* width: 100%; */
+  font-size: 27px;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 4px 0px 14px 0px;
+
+}
+
+.par-1 {
+  display: flex;
+}
+
+.xc-1 {
+  font-size: 9px;
+  padding: 0px 0px 12px;
+  color: #FF3D71;
+  
+}
+.xc-2 {
+  margin-bottom: 15px;
+  line-height: 1.1;
+  display: flex;
+  font-size: 16px;
+  font-weight: 700;
+
+}
+.f-10 {
+  font-size: 10px;
+}
+.m-3 {
+  margin: 0px 3px ;
+}
+.xc-21 {
+  line-height: normal;
+  border-radius: 4px;
+  color: #fff;
+  margin-left: 14px;
+  font-size: 11px;
+  width: 35px;
+  height: 17px;
+  background-color: #FF3D71;
+  text-align: center;
+
+}
+
+.c-l {
+  color: #cac6c6;
+  width: 65px;
+  padding-top: 2px;
+}
+.pt-61 {
+  padding-bottom: 6px;
+}
+.mt {
+  padding-top: 8px;
+}
+.ps-r {
+  position: relative;
+  display: flex;
+  width: 90px;
+}
+.fs-11 {
+  padding: 5px;
+  font-weight: 700;
+  font-size: 10px;
+}
+.cr-1 {
+  padding-left: 4px;
+  left: 12px;
+ 
+  font-size: 12px;
+  position: absolute;
+  width: 12px;
+  
+  border-radius: 50%;
+  background-color: #FF3D71;
+}
+/* .dr-ex {
+
+} */
+
+.fs-1 {
+  font-size: 13px;
+}
+.bt-d {
+  font-size: 11px;
+  width: 120px;
+  cursor: pointer;
+  text-align: center;
+  background-color: #1551e5;
+  border-radius: 4px;
+  color: #fff;
+}
+.bl-2 {
+  color: #1551e5;
+  font: 14px;
+  text-align: center;
+}
+.ml-30 {
+
+  margin-top: 4px;
+}
+
+.mr-21 {
+   margin-left: 58%;
+
+}
+.pt-6 {
+  padding: 0px 6px;
+}
+.sq-2{
+  width: 36px;
+  height: 34px;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #eff2f6;
+  margin-left: 26px;
+  margin-top: 2px;
+}
+
+.wl-40 {
+  text-align: center;
+    padding: 0px 0px 4px 3px;
+    display: flex;
+    width: 139px;
+    height: 20px;
+  border-radius: 4px;
+  background-color: #eff2f6;
+  margin-right: 3px;
+}
+.w-12 {
+  width: 170px;
+}
+.mb-12 {
+  margin-bottom: 25px;
+}
+.text-1 {
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.f-13 {
+  font-size: 13px
+}
+.pt-20 {
+ padding-top: 41px;;
+}
+
+.fs-12 {
+  font-size: 12px;
+   margin-bottom: 13px;
+}
+
+/* .cd-b {
+  width: 25px;
+  color: #1551e5 !important;
+  fill: #1551e5;
+} */
+
+/* .cd-3 {
+  fill: #fff !important;
+} */
+
+/* .fill-c {
+  fill: #1551e5;
+} */
